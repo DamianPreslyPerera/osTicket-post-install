@@ -90,6 +90,28 @@ In order to configure roles within osTicket:
 ## Configure Teams
      
 
+  - Within the Admin panel, click on "Teams"
+  - Click on "Add New Team"
+
+<img width="775" alt="teams2" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/77895633-36ef-436e-867f-77572b51c044">
+
+  - Type in a name for the team (The name of the team here is "Level II Support")
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/edc0d25c-9da5-490d-94dd-25d7ffad93ca">
+
+  - Click on the "Members" tab to add a member to the team (Since there are no other members available yet, I will add myself to the team)
+
+<img width="775" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/d6d8658a-27aa-4f09-abaa-9a660b04f0d7">
+
+  - Click on "Create Team" to add the new team
+  - The new team is visible on the dashboard now
+
+<img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/4b94ede1-49e1-41fb-a15b-ed86b3072d82">
+
+
+
+
+
 
 
 

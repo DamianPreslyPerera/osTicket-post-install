@@ -123,10 +123,37 @@ In order to configure roles within osTicket:
 
 <img width="775" alt="addnewagent" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/e3301ab2-0274-4131-a17c-a9b04187fe7e">
 
+  - Create a new user with the following information:
+      - First Name
+      - Last Name
+      - Email
+      - Username
+      - Password
+
+
+<img width="777" alt="janedoeuser" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/f28070b6-ae06-4ebb-b4ae-840636ecf2b7">
+
+  - When setting the agent password, uncheck the the "Send the agent a password reset email" and "Require password change at next login" (This is done just for ease of use during testing and can be changed back later)
+  - Press "Set" to set the password
+
+<img width="487" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/b22f0633-2373-4ee8-8e52-0dd33546542b">
+
+
+ - Assign access to the newly created agent
+ - In this case, we will assign Jane Doe to the "System Administrators Department" as a "Super Admin"
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/333378e4-9175-4084-9deb-e4b9f3ff4548">
+
+- Assign Jane Doe to the team "Level II Support" by clicking on the "Teams" tab and choosing "Level II Support" from the drop down menu
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/df512b20-6d2b-4788-aa26-4b3aafa05641">
+
+- The newly created user is now visile on the "Agents" dashboard
+
+<img width="778" alt="janedoenew" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/6094080c-59ec-4ffb-a70c-98601bb73539">
 
 
 
- 
 
 
 

@@ -62,9 +62,32 @@ In order to configure roles within osTicket:
   <img width="778" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/58ae0bf8-38c2-4ab6-99c8-07ad7edf1201">
 
 
+## Configure Departments
 
+  - Within the admin panel, click on "Agents"
 
+  <img width="777" alt="agents2" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/57e41f3e-3b8a-4c94-bf9e-6764ed66e2d7">
 
+  - Click on "Departments"
+  - By default, the departments "Maintenance" and "Support" are available
+
+ <img width="776" alt="departments" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/0be1150c-af3f-43b6-ad78-d8d4a26de776">
+
+  - Click on "Add New Department"
+
+ <img width="778" alt="addnewdept" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/c0721035-3936-4eed-8749-8ba8b6cd1a45">
+
+  - Type in the name for the new department (The name for the new department in "System Administrators"
+  - Click on "Create Dept" below to create the new department
+
+ <img width="637" alt="createsysadindept" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/c97447ba-2408-45c0-9d81-53910145ad98">
+
+  - The newly created department is now visible
+
+ <img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/98b6d074-aa20-40b0-9432-8dc50a2c02e7">
+
+    
+## Configure Teams
      
 
 

@@ -44,6 +44,30 @@ In order to configure roles within osTicket:
 
    <img width="777" alt="roles" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/7dff27a1-dbdd-49a6-9b28-293bc1384fa4">
 
+  - Click on "Add new role"
+
+   <img width="777" alt="addnewrole" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/b541a374-1a2e-412c-8ee1-5886bfdeeefd">
+
+   - Create a "Super Admin" role
+     
+  <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/64901a2e-ed5c-4ab4-8ae9-5675eae09bd5">
+
+  - Click on "Permissions" and check all the boxes under the "Tickets", "Tasks", and "Knowledgebase" tabs to enable full access for the "Super Admin" user.
+  - Click "Add role" to put changes into effect
+
+  <img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/5d556b63-ceeb-4e9b-a9fe-f75b5867a06c">
+
+  - The new user is  now visible
+
+  <img width="778" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/58ae0bf8-38c2-4ab6-99c8-07ad7edf1201">
+
+
+
+
+
+     
+
+
 
 
  

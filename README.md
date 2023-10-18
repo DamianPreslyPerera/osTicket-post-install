@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Departments
 - Configure Teams
 - Ticket Creation
-- Configure Agents (Workers)
+- Configure Agents (Help Desk Workers)
 - Configure Users (Customers)
 - Configure SLA (Service Level Agreement)
 - Configure Help Topics
@@ -108,9 +108,20 @@ In order to configure roles within osTicket:
 
 <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/4b94ede1-49e1-41fb-a15b-ed86b3072d82">
 
+### Configuring Ticket Creation for all users
+
+  - Navigate to the Admin Panel > Settings > Users Settings
+  - Make sure the setting "Require registration and login to create tickets" remains unchecked so that all users have     the ability to create tickets
+
+<img width="779" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/9a6e9fcf-a507-4fbe-b694-ba431442ec76">
 
 
+## Configure Agents (Help Desk Workers)
 
+  - Agents are the actual Help Desk employees that will be using the osTicket system to work on tickets
+  - In order to create an angents, navigate to Admin Panel > Agents > Add New Agent
+
+<img width="775" alt="addnewagent" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/e3301ab2-0274-4131-a17c-a9b04187fe7e">
 
 
 

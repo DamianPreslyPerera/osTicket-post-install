@@ -27,28 +27,37 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA (Service Level Agreement)
 - Configure Help Topics
 
-<h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+## Configure Roles
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+In order to configure roles within osTicket:
+  - Login to osTicket with the previously created credentials
+  - Navigate to the Admin Panel
+    
+   <img width="778" alt="adminpanel" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/a36208ed-bafb-456e-8acf-5a83d96b97f8">
+   
+  - Click on "Agents"
+    
+   <img width="777" alt="agents" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/d080ff15-3896-4c55-8fd2-3cd8f87f4b7b">
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+  - Click on "Roles"
+
+   <img width="777" alt="roles" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/7dff27a1-dbdd-49a6-9b28-293bc1384fa4">
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

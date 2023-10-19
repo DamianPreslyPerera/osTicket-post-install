@@ -272,7 +272,7 @@ Help Topics in osTicket helps in streamlining the end-user's help desk experienc
 <img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/b3242a63-f9b7-4aba-95bb-7efb3d0c5d8a">
 
 
-## Configuation Finish
+## Configuration Finish
 
 - All of the core settings within osTicket have now been configured and the entire system can now be used as a fully functional help desk ticketing system.
 

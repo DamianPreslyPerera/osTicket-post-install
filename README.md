@@ -187,6 +187,51 @@ In order to configure roles within osTicket:
 
 <img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/47251121-db4d-49d8-b1bf-011de1b6207e">
 
+- Add another user by following the same procedure as above
+
+- The new users are now visible on the "Users" dashboard
+
+<img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/1c78fe40-e3af-439f-ae0a-0cabd9d8f9d5">
+
+
+## Configure SLA (Service Level Agreement)
+
+- The SLAs within osTicket have many custom options, for this instance, I will configure the SLA as the length of time in which the help desk Administrator expects tickets to be closed
+- In order to configure the SLA
+
+- Navigate to the "Admin" panel > Click on the "Manage" tab > Click on "SLA"
+
+<img width="777" alt="adminpanelsla" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/b9500165-c025-4ecb-9ff1-6957f1b85d9d">
+
+
+- Click on "Add New SLA Plan"
+
+<img width="778" alt="addnewsla" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/2b153c26-2a0e-49be-b470-63edb5f1b7bc">
+
+  
+- The first SLA is named "SEV-A" and it will be given a 24/7 Schedule, meaning that if somwthing happens even on the weekend, the ticket must be solved. The Grace Period indicated the time in whicj the ticket must be resolved. I will enter in "1" for the Grace Period to indicate that the ticket must be resolved within one hour on a 24/7 Schedule.
+- Click on "Add Plan" to create the new SLA
+
+<img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/3a84a13e-f934-4b42-8718-bf38a3c19258">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

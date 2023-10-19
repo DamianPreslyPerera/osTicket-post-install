@@ -152,6 +152,7 @@ In order to configure roles within osTicket:
 
 <img width="778" alt="janedoenew" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/6094080c-59ec-4ffb-a70c-98601bb73539">
 
+- Following the same procedure as above, create another Agents (This agent will be named John Doe, and will be given the permissions of..........
 
 
 

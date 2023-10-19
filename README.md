@@ -209,13 +209,32 @@ In order to configure roles within osTicket:
 <img width="778" alt="addnewsla" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/2b153c26-2a0e-49be-b470-63edb5f1b7bc">
 
   
-- The first SLA is named "SEV-A" and it will be given a 24/7 Schedule, meaning that if somwthing happens even on the weekend, the ticket must be solved. The Grace Period indicated the time in whicj the ticket must be resolved. I will enter in "1" for the Grace Period to indicate that the ticket must be resolved within one hour on a 24/7 Schedule.
+- The first SLA is named "SEV-A" and it will be given a 24/7 Schedule, meaning that if somwthing happens even on the weekend, the ticket must be solved.
+  
+- The Grace Period indicates the time in which the ticket must be resolved. I will enter in "1" for the Grace Period to indicate that the ticket must be resolved within one hour on a 24/7 Schedule.
+
 - Click on "Add Plan" to create the new SLA
 
-<img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/3a84a13e-f934-4b42-8718-bf38a3c19258">
+<img width="776" alt="sevA" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/ad894c90-3814-4e24-9971-f0677cbfb098">
 
 
+- The newly created SLA plan is visible on the "SLA" dashboard now
 
+<img width="778" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/83cd47cf-4894-4108-901b-91a57ae2066d">
+
+
+- Following the same procedure, create another SLA titled "SEV-B" with a grace period of 4 hours on a 24/7 time schedule
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/02999fa7-08e6-425f-9945-c976cd7a8791">
+
+- Create another SLA titled "SEV-C" with a grace period of 8 hours on a normal business hours schedule
+
+<img width="778" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/0ae00d06-120e-4ff2-9754-ee4e899de3ab">
+
+
+- All the newly created SLAs are now visible on the SLA dashboard
+
+<img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/0132830c-f67a-4662-b53d-ee3d1063b195">
 
 
 

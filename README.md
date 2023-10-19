@@ -237,10 +237,13 @@ In order to configure roles within osTicket:
 <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/0132830c-f67a-4662-b53d-ee3d1063b195">
 
 
+## Configure Help Topics
 
+Help Topics in osTicket helps in streamlining the end-user's help desk experience to ensure proper assignment and prompt response to tickets. 
 
+- In order to configure Help Topics, navigate to the Admin Panel > Click on the "Manage" tab > Click on the "Help Topics" tab
 
-
+<img width="776" alt="helptopics" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/2e3378c7-3ba5-4f5c-8554-8abc6b6c41b1">
 
 
 

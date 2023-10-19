@@ -152,16 +152,40 @@ In order to configure roles within osTicket:
 
 <img width="778" alt="janedoenew" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/6094080c-59ec-4ffb-a70c-98601bb73539">
 
-- Following the same procedure as above, create another Agents (This agent will be named John Doe, and will be given the permissions of..........
+- Following the same procedure as above, create another Agents (This agent will be named John Doe, and will be assigned to the support department)
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/4b70adc2-fcad-46e0-b654-62eacdfcd197">
 
 
+## Configure Users (Customers)
+
+ - The users are the customers that will be using the osTicket platform to create tickets which will be worked on by agents
+ - In order to create users:
+ 
+ -  Switch to the "Agent" panel
+
+<img width="778" alt="agentpanel" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/2f6c626f-ce9e-49d1-910e-a9aa15159dbd">
 
 
+ -  Navigate to the "Users" tab
+ 
+<img width="778" alt="agentpanelusers" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/3a2d49dc-21d2-4237-99b3-a6fa2e80e230">
 
 
+ -  Click on "Add User"
+
+<img width="776" alt="agentpaneladduser" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/0c827b33-0829-4da3-8e82-b9a7ecfb08dd">
 
 
+- Enter in the information for the new user such as their email address and full name
+- Click "Add User" to create the new user
 
+<img width="777" alt="adduser" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/bc01eb02-658b-4361-b6db-7ac22739bdd2">
+
+
+- The new user should now be visible in the "Users" dashboard
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/47251121-db4d-49d8-b1bf-011de1b6207e">
 
 
 

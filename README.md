@@ -241,9 +241,27 @@ In order to configure roles within osTicket:
 
 Help Topics in osTicket helps in streamlining the end-user's help desk experience to ensure proper assignment and prompt response to tickets. 
 
-- In order to configure Help Topics, navigate to the Admin Panel > Click on the "Manage" tab > Click on the "Help Topics" tab
+- In order to configure Help Topics, navigate to the Admin Panel > Click on the "Manage" tab > Click on the "Help Topics" tab > Click on "Add New Help Topic"
 
-<img width="776" alt="helptopics" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/2e3378c7-3ba5-4f5c-8554-8abc6b6c41b1">
+<img width="776" alt="helptopics2" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/eeb364ef-7c87-4cfe-ad17-434250851d78">
+
+- Create a new Help Topic titled "Business Critical Outage"
+
+<img width="776" alt="businesscrtout2" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/1e010b2d-1a31-4fb4-8f85-b3f91bc41107">
+
+- The new Help Topic will be created
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/f955d7ee-849e-4285-bc15-dc7c30c8c058">
+
+- Using the same procedure create three more help topics under the titles
+  - "Personal Computer Issues"
+  - "Equipment Request"
+  - "Password Reset"
+
+- All the newly created Help Topics are now visible on the "Help Topics" dashboard
+
+<img width="777" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-post-install/assets/89204562/b3242a63-f9b7-4aba-95bb-7efb3d0c5d8a">
+
 
 
 
